@@ -8,19 +8,11 @@ This project focuses on predicting breast cancer mortality and estimating patien
 
 Breast cancer remains a leading cause of mortality worldwide. This project aims to build predictive models that help estimate the likelihood of mortality and predict survival duration after diagnosis, supporting clinical decision-making and patient management.
 
-breast-cancer-prediction/
-│
-├── data/
-│ ├── 2024)5DATA002W.2_MachineLearningDataMining_Coursework_Setting_Student_Document_Revised(25012025v.6)(1) # Original breast cancer dataset
-│ ├── classification_dataset.csv # Prepared dataset for mortality prediction (classification)
-│ └── regression_dataset.csv # Prepared dataset for survival months prediction (regression)
-│
-├── notebooks/
-│ ├── 01_data_preparation.ipynb # Data cleaning and dataset preparation for classification and regression
-│ ├── 02_classification_model.ipynb # Machine learning models for mortality prediction
-│ └── 03_regression_model.ipynb # Regression models for survival months prediction
-│
-├── README.md # Project overview and instructions
+## Description of Datasets
+
+2024)5DATA002W.2_MachineLearningDataMining_Coursework_Setting_Student_Document_Revised(25012025v.6)(1) # Original breast cancer dataset
+classification_dataset.csv # Prepared dataset for mortality prediction (classification)
+regression_dataset.csv # Prepared dataset for survival months prediction (regression)
 
 ## Description of Notebooks
 
