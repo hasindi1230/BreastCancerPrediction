@@ -10,9 +10,9 @@ Breast cancer remains a leading cause of mortality worldwide. This project aims 
 
 ## Description of Datasets
 
-2024)5DATA002W.2_MachineLearningDataMining_Coursework_Setting_Student_Document_Revised(25012025v.6)(1) # Original breast cancer dataset
-classification_dataset.csv # Prepared dataset for mortality prediction (classification)
-regression_dataset.csv # Prepared dataset for survival months prediction (regression)
+2024)5DATA002W.2_MachineLearningDataMining_Coursework_Setting_Student_Document_Revised(25012025v.6)(1) # Original breast cancer dataset.
+classification_dataset.csv # Prepared dataset for mortality prediction (classification).
+regression_dataset.csv # Prepared dataset for survival months prediction (regression).
 
 ## Description of Notebooks
 
