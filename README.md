@@ -21,17 +21,17 @@ Breast cancer remains a leading cause of mortality worldwide. This project aims 
   
 ## Description of Notebooks
 
-- **01_data_preparation.ipynb**  
+- **FinalNotebook1.ipynb**  
   Loads and cleans the raw dataset, performs feature engineering, and generates two separate datasets tailored for classification (mortality) and regression (survival months) tasks.
 
-- **02_classification_model.ipynb**  
+- **FinalNotebook2.ipynb**  
   Implements and evaluates various classification algorithms to predict the mortality status of breast cancer patients.
 
-- **03_regression_model.ipynb**  
+- **FinalNotebook3.ipynb**  
   Develops regression models to predict the survival duration (in months) for breast cancer patients after diagnosis.
 
 ## How to Run
 
 - Open each notebook in the order mentioned above.
 - Ensure the `data/` folder is in the same directory as the notebooks.
-- Install necessary Python packages (e.g., pandas, scikit-learn, matplotlib).
+- Install necessary Python packages (e.g., pandas, scikit-learn, plotly.express).
