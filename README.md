@@ -1,6 +1,6 @@
 # BreastCancerPrediction
 
-# Breast Cancer Mortality and Survival Prediction
+# Breast Cancer Mortality and Survival Months Prediction
 
 This project focuses on predicting breast cancer mortality and estimating patient survival months using machine learning techniques. The analysis is divided into classification tasks (mortality prediction) and regression tasks (survival time estimation).
 
